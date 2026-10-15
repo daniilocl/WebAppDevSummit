@@ -6,8 +6,8 @@ O **WebAppDevSummit** é uma aplicação web desenvolvida em Java no padrão **M
 
 ## 📸 Diagramas do Sistema
 
-### 1. Arquitetura do Sistema junto com bd (MVC)
-![Arquitetura MVC](docs/Design da Solução da atividade de inscrição (do professor Adilson).jpg)
+### 1. Arquitetura do Sistema com bd incluso (MVC)
+![Arquitetura MVC](docs/arquitetura.png)
 
 ---
 
