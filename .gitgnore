@@ -1,0 +1,9 @@
+# Arquivos de compilação e build do NetBeans
+/build/
+/dist/
+/nbproject/private/
+
+# Arquivos de ambiente e logs
+*.log
+.DS_Store
+*.class
