@@ -19,6 +19,25 @@ public class Inscricao {
     private String numeroDocumento;
     private String comoConheceu;
 
+    public Inscricao(int id, String nome, String sobrenome, String emailCorporativo, String telefoneCelular, String nomeEmpresa, String cargo, String setor, String nacionalidade, String cidade, String tipoDocumento, String numeroDocumento, String comoConheceu) {
+        this.id = id;
+        this.nome = nome;
+        this.sobrenome = sobrenome;
+        this.emailCorporativo = emailCorporativo;
+        this.telefoneCelular = telefoneCelular;
+        this.nomeEmpresa = nomeEmpresa;
+        this.cargo = cargo;
+        this.setor = setor;
+        this.nacionalidade = nacionalidade;
+        this.cidade = cidade;
+        this.tipoDocumento = tipoDocumento;
+        this.numeroDocumento = numeroDocumento;
+        this.comoConheceu = comoConheceu;
+    }
+
+    public Inscricao() {
+    }
+    
     public int getId() {
         return id;
     }
